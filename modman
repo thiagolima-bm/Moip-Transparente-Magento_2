@@ -1,8 +1,12 @@
 # Moip
 
-app								app
+app/design/frontend/default		app/design/frontend/base
+app/design/adminhtml			app/design/adminhtml				
 
-skin							skin
+app/code						app/code
+app/etc							app/etc
+
+skin/frontend/default			skin/frontend/base
 
 buscacep.php					buscacep.php
 
